@@ -1,0 +1,3 @@
+[submodule "prometheus"]
+	path = prometheus
+	url = git@github.com:noeltock/prometheus.git
